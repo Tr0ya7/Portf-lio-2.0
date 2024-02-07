@@ -23,7 +23,6 @@ export default function ContactMe() {
                 Ativamente procurando por oportunidades full-time
             </h5>
             <ViewResume />
-            <SocialMedia />
         </section>
     )
 }
