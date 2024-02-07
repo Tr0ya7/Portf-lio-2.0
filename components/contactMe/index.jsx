@@ -1,5 +1,5 @@
 import ViewResume from './viewResume'
-import SocialMedia from '../socialMedia/index'
+//import SocialMedia from '../socialMedia'
 
 export default function ContactMe() {
     return (
