@@ -1,4 +1,4 @@
-import Title from '../title/index'
+import Title from '../title'
 import Tags from './tags'
 import Cards from './cards'
 import cards from './cards.json'

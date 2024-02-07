@@ -1,4 +1,4 @@
-import Title from '../title/index'
+import Title from '../title'
 import ProjectCard from './projectCard'
 
 export default function Projects() { //Transformar em json as infos

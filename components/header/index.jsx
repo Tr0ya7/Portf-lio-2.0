@@ -1,5 +1,5 @@
-import Link from '../../node_modules/next/link'
-import Image from '../../node_modules/next/image'
+import Link from 'next/link'
+import Image from 'next/image'
 import { useState } from 'react'
 
 export default function Header() { //IMPLEMENTAR FRAMER MOTION PARA COMEÇAR A UTILIZAR NO PORTFÓLIO

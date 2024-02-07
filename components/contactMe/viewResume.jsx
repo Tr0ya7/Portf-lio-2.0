@@ -1,4 +1,4 @@
-import Link from "../../node_modules/next/link"
+import Link from "next/link"
 import { IoDocumentOutline } from "react-icons/io5"
 
 export default function ViewResume() {

@@ -1,8 +1,8 @@
-import Image from '../../node_modules/next/image'
+import Image from 'next/image'
 import { LuExternalLink } from 'react-icons/lu'
 import tags from './tags.json'
 import { useState, useEffect } from 'react'
-import Link from '../../node_modules/next/link'
+import Link from 'next/link'
 
 export default function ProjectCard({ names, title, href, endDate, children }){
     const [tagsName, setTagsName] = useState([''])

@@ -1,5 +1,5 @@
-import Link from '../../node_modules/next/link'
-import Image from '../../node_modules/next/image'
+import Link from 'next/link'
+import Image from 'next/image'
 
 export default function SocialMediaButton({ href, className, srcImage, width = 22, height = 22, altImage }) {
     return (
