@@ -1,5 +1,5 @@
 import ViewResume from './viewResume'
-import SocialMedia from '../socialMedia' //declarar o index para evitar erros no deploy na vercel
+import SocialMedia from '../socialMedia/index'
 
 export default function ContactMe() {
     return (
