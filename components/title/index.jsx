@@ -1,0 +1,1 @@
+export default function Title({ children }) { return <h1 className="text-3xl py-12">{ children }</h1> }

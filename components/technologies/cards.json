@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "name": "Html",
+        "image": "/images/technologiesIcons/html.svg",
+        "tag": ["Todas", "Front-End"]
+    },
+    {
+        "id": 2,
+        "name": "Css",
+        "image": "/images/technologiesIcons/css.svg",
+        "tag": ["Todas", "Front-End"]
+    },
+    {
+        "id": 3,
+        "name": "JavaScript",
+        "image": "/images/technologiesIcons/javascript.svg",
+        "tag": ["Todas", "Front-End"]
+    },
+    {
+        "id": 4,
+        "name": "TypeScript",
+        "image": "/images/technologiesIcons/typescript.svg",
+        "tag": ["Todas", "Front-End", "Superset"]
+    },
+    {
+        "id": 5,
+        "name": "Go",
+        "image": "/images/technologiesIcons/go.png",
+        "tag": ["Todas", "Back-End"]
+    },
+    {
+        "id": 6,
+        "name": "Gin",
+        "image": "/images/technologiesIcons/gin.png",
+        "tag": ["Todas", "Back-End", "Framework"]
+    },
+    {
+        "id": 7,
+        "name": "Gorm",
+        "image": "/images/technologiesIcons/gorm.png",
+        "tag": ["Todas", "Back-End", "Framework"]
+    },
+    {
+        "id": 8,
+        "name": "Node.js",
+        "image": "/images/technologiesIcons/node-js.svg",
+        "tag": ["Todas", "Back-End"]
+    },
+    {
+        "id": 9,
+        "name": "Express.js",
+        "image": "/images/technologiesIcons/express-js.svg",
+        "tag": ["Todas", "Back-End", "Framework"]
+    },
+    {
+        "id": 10,
+        "name": "React",
+        "image": "/images/technologiesIcons/react.svg",
+        "tag": ["Todas", "Front-End", "Biblioteca"]
+    },
+    {
+        "id": 11,
+        "name": "Next.js",
+        "image": "/images/technologiesIcons/next-js.svg",
+        "tag": ["Todas", "Front-End", "Framework"]
+    },
+    {
+        "id": 12,
+        "name": "TailwindCss",
+        "image": "/images/technologiesIcons/tailwindCss.svg",
+        "tag": ["Todas", "Front-End", "Biblioteca"]
+    },
+    {
+        "id": 13,
+        "name": "Sass",
+        "image": "/images/technologiesIcons/sass.png",
+        "tag": ["Todas", "Front-End", "Biblioteca"]
+    },
+    {
+        "id": 14,
+        "name": "Styled Components",
+        "image": "/images/technologiesIcons/styled components.png",
+        "tag": ["Todas", "Front-End", "Biblioteca"]
+    },
+    {
+        "id": 15,
+        "name": "Bootstrap",
+        "image": "/images/technologiesIcons/bootstrap.png",
+        "tag": ["Todas", "Front-End", "Biblioteca"]
+    },
+    {
+        "id": 16,
+        "name": "SQL",
+        "image": "/images/technologiesIcons/sql.png",
+        "tag": ["Todas", "Database"]
+    },
+    {
+        "id": 17,
+        "name": "PostgreSQL",
+        "image": "/images/technologiesIcons/postgresql.png",
+        "tag": ["Todas", "Database"]
+    },
+    {
+        "id": 18,
+        "name": "Firebird",
+        "image": "/images/technologiesIcons/firebird.png",
+        "tag": ["Todas", "Database"]
+    }
+]

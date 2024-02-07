@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Next.js",
+        "image": "/images/tags/next-js.png"
+    },
+    {
+        "id": 2,
+        "name": "React",
+        "image": "/images/tags/react.png"
+    },
+    {
+        "id": 3,
+        "name": "Node.js",
+        "image": "/images/tags/node-js.png"
+    },
+    {
+        "id": 4,
+        "name": "Express.js",
+        "image": "/images/tags/express-js.png"
+    },
+    {
+        "id": 5,
+        "name": "Vite",
+        "image": "/images/tags/vite.png"
+    },
+    {
+        "id": 6,
+        "name": "JavaScript",
+        "image": "/images/tags/javascript.png"
+    },
+    {
+        "id": 7,
+        "name": "Sass",
+        "image": "/images/tags/sass.png"
+    },
+    {
+        "id": 8,
+        "name": "Go",
+        "image": "/images/tags/go.png"
+    },
+    {
+        "id": 9,
+        "name": "Gin",
+        "image": "/images/tags/gin.png"
+    },
+    {
+        "id": 10,
+        "name": "Gorm",
+        "image": "/images/tags/gorm.png"
+    },
+    {
+        "id": 11,
+        "name": "SQL",
+        "image": "/images/tags/sql.png"
+    },
+    {
+        "id": 12,
+        "name": "PostgreSQL",
+        "image": "/images/tags/postgresql.png"
+    },
+    {
+        "id": 13,
+        "name": "Styled Components",
+        "image": "/images/tags/styled components.png"
+    },
+    {
+        "id": 14,
+        "name": "Firebird",
+        "image": "/images/tags/firebird.png"
+    },
+    {
+        "id": 15,
+        "name": "TypeScript",
+        "image": "/images/tags/typescript.png"
+    },
+    {
+        "id": 16,
+        "name": "TailwindCss",
+        "image": "/images/tags/tailwindcss.png"
+    }
+]
