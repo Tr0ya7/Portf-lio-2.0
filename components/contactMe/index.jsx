@@ -1,5 +1,5 @@
 import ViewResume from './viewResume'
-//import SocialMedia from '../socialMedia'
+import SocialMedia from '../socialMedia'
 
 export default function ContactMe() {
     return (
@@ -23,6 +23,7 @@ export default function ContactMe() {
                 Ativamente procurando por oportunidades full-time
             </h5>
             <ViewResume />
+            <SocialMedia />
         </section>
     )
 }
