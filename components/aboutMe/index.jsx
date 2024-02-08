@@ -13,7 +13,7 @@ export default function AboutMe() {
                 cidade. E logo após a essa venda me encontro empregado a uma software house, que presta serviços a de 
                 ERP a diversas empresas de diversos ramos de vários estados do Brasil. E que hoje sendo o único 
                 programador com conhecimentos fullstack contratado por ela, pude fazer vários projetos web do zero 
-                usando as técnilogias escolhidas por mim, além de manter em conjunto um sistema em Delphi 10 e 
+                usando as técnologias escolhidas por mim, além de manter em conjunto um sistema em Delphi 10 e 
                 Delphi 7.
             </p>
         </section>
