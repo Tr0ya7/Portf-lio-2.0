@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "tagName": "Todas"
+    },
+    {
+        "id": 2,
+        "tagName": "Front-End"
+    },
+    {
+        "id": 3,
+        "tagName": "Back-End"
+    },
+    {
+        "id": 4,
+        "tagName": "Superset"
+    },
+    {
+        "id": 5,
+        "tagName": "Biblioteca"
+    },
+    {
+        "id": 6,
+        "tagName": "Framework"
+    },
+    {
+        "id": 7,
+        "tagName": "Database"
+    }
+]

@@ -14,15 +14,7 @@ export default function Technologies() {
             <Title>
                 Tecnologias
             </Title>
-            <Tags 
-                allTags={() => setTag(defaultTag)} 
-                frontEndTag={() => setTag('Front-End')} 
-                backEndTag={() => setTag('Back-End')}
-                superSetTag={() => setTag('Superset')} 
-                libraryTag={() => setTag('Biblioteca')}
-                frameworkTag={() => setTag('Framework')}
-                dbTag={() => setTag('Database')}
-            />
+            <Tags onClick={setTag} />
             <Cards>
                 {cards
                     .filter((card) => tag === defaultTag || card.tag.includes(tag)) //(|| === OU) sempre deve conter a função .includes porque ele faz referência ao valor de um array json -> por padrão sempre irá mostar todos ou a tag selecionada

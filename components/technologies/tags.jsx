@@ -1,29 +1,19 @@
 import TechnologiesTags from './technologiesTags'
+import tags from './tags.json'
 
-export default function Tags({ allTags, frontEndTag, backEndTag, superSetTag, libraryTag, frameworkTag, dbTag }) {
+export default function Tags({ onClick }) {
+    const TechnologiesTagsOnClick = (tagName) => {
+        onClick(tagName)
+    }
+
     return (
         <div className="flex items-center flex-wrap justify-center">
-            <TechnologiesTags onClick={ allTags }>
-                Todas
-            </TechnologiesTags>
-            <TechnologiesTags onClick={ frontEndTag }>
-                Front-End
-            </TechnologiesTags>
-            <TechnologiesTags onClick={ backEndTag }>
-                Back-End
-            </TechnologiesTags>
-            <TechnologiesTags onClick={ superSetTag }>
-                Superset
-            </TechnologiesTags>
-            <TechnologiesTags onClick={ libraryTag }>
-                Biblioteca
-            </TechnologiesTags>
-            <TechnologiesTags onClick={ frameworkTag }>
-                Framework
-            </TechnologiesTags>
-            <TechnologiesTags onClick={ dbTag }>
-                Database
-            </TechnologiesTags>
+            {tags.map(
+                (tag) => 
+                    <TechnologiesTags key={tag.id} onClick={ () => TechnologiesTagsOnClick(tag.tagName) }>
+                        {tag.tagName}
+                    </TechnologiesTags>
+            )}
         </div>
     )
 }
