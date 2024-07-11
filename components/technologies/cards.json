@@ -24,24 +24,6 @@
         "tag": ["Todas", "Front-End", "Superset"]
     },
     {
-        "id": 5,
-        "name": "Go",
-        "image": "/images/technologiesIcons/go.png",
-        "tag": ["Todas", "Back-End"]
-    },
-    {
-        "id": 6,
-        "name": "Gin",
-        "image": "/images/technologiesIcons/gin.png",
-        "tag": ["Todas", "Back-End", "Framework"]
-    },
-    {
-        "id": 7,
-        "name": "Gorm",
-        "image": "/images/technologiesIcons/gorm.png",
-        "tag": ["Todas", "Back-End", "Framework"]
-    },
-    {
         "id": 8,
         "name": "Node.js",
         "image": "/images/technologiesIcons/node-js.svg",
