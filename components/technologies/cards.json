@@ -37,54 +37,66 @@
     },
     {
         "id": 10,
+        "name": "Sequelize",
+        "image": "/images/technologiesIcons/sequelize.svg",
+        "tag": ["Todas", "Back-End", "Biblioteca"]
+    },
+    {
+        "id": 11,
         "name": "React",
         "image": "/images/technologiesIcons/react.svg",
         "tag": ["Todas", "Front-End", "Biblioteca"]
     },
     {
-        "id": 11,
+        "id": 12,
         "name": "Next.js",
         "image": "/images/technologiesIcons/next-js.svg",
         "tag": ["Todas", "Front-End", "Framework"]
     },
     {
-        "id": 12,
+        "id": 13,
+        "name": "Redux",
+        "image": "/images/technologiesIcons/redux.png",
+        "tag": ["Todas", "Front-End", "Biblioteca"]
+    },
+    {
+        "id": 14,
         "name": "TailwindCss",
         "image": "/images/technologiesIcons/tailwindCss.svg",
         "tag": ["Todas", "Front-End", "Biblioteca"]
     },
     {
-        "id": 13,
+        "id": 15,
         "name": "Sass",
         "image": "/images/technologiesIcons/sass.png",
         "tag": ["Todas", "Front-End", "Biblioteca"]
     },
     {
-        "id": 14,
+        "id": 16,
         "name": "Styled Components",
         "image": "/images/technologiesIcons/styled components.png",
         "tag": ["Todas", "Front-End", "Biblioteca"]
     },
     {
-        "id": 15,
+        "id": 17,
         "name": "Bootstrap",
         "image": "/images/technologiesIcons/bootstrap.png",
         "tag": ["Todas", "Front-End", "Biblioteca"]
     },
     {
-        "id": 16,
+        "id": 18,
         "name": "SQL",
         "image": "/images/technologiesIcons/sql.png",
         "tag": ["Todas", "Database"]
     },
     {
-        "id": 17,
+        "id": 19,
         "name": "PostgreSQL",
         "image": "/images/technologiesIcons/postgresql.png",
         "tag": ["Todas", "Database"]
     },
     {
-        "id": 18,
+        "id": 20,
         "name": "Firebird",
         "image": "/images/technologiesIcons/firebird.png",
         "tag": ["Todas", "Database"]

@@ -20,7 +20,7 @@ export default function SocialMedia({ className, width, height }) {
                 altImage="github" 
             />
             <SocialMediaButton 
-                href="mailto:DevLuizHBarros@proton.me"
+                href="mailto:DevLuizHBarros@gmail.com"
                 className={ className } 
                 width={ width } 
                 height={ height } 

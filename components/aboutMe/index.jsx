@@ -1,3 +1,4 @@
+import Link from 'next/link'
 import Title from '../title'
 
 export default function AboutMe() {
@@ -7,14 +8,11 @@ export default function AboutMe() {
                 Sobre Mim
             </Title>
             <p className="pt-10 text-vWhite leading-8 tracking-wide font-raleway md:leading-10 md:max-w-[600px]">
-                Sou uma pessoa apaixonada por programação e tecnologia de modo geral. Obtive meu primeiro contato com a 
-                área com o ensino médio e técnico e logo nele comecei a trabalhar na área, concluindo meu projeto de 
-                conclusão de curso fazendo uma venda em conjunto com colegas de um site para uma barbearia local da 
-                cidade. E logo após a essa venda me encontro empregado a uma software house, que presta serviços a de 
-                ERP a diversas empresas de diversos ramos de vários estados do Brasil. E que hoje sendo o único 
-                programador com conhecimentos fullstack contratado por ela, pude fazer vários projetos web do zero 
-                usando as técnologias escolhidas por mim, além de manter em conjunto um sistema em Delphi 10 e 
-                Delphi 7.
+                Sou um jovem programador fullstack de 19 anos, apaixonado por tecnologia em geral. Atualmente cursando graduação tecnológica em Análise e Desenvolvimento de Sistemas e faço da programação minha 
+                carreira há quase três anos. Comecei no final do terceiro ano do curso técnico em Análise e Desenvolvimento de Sistemas da <Link className="text-blue-400 border-b border-blue-400" 
+                href="https://www.etecjau.com.br/etecjau/">ETEC Joaquim Ferreira do Amaral</Link>, onde eu e meu grupo vendemos o site criado como projeto de conclusão de curso. Inicialmente, foquei no front-end, que 
+                foi o start da minha carreira. No entanto, devido à demanda mercadológica e à minha primeira experiência em uma software house, precisei expandir meus conhecimentos para além do front-end. Trabalhando 
+                em uma equipe reduzida, me tornei um desenvolvedor mais versátil e descobri uma nova paixão pelo desenvolvimento fullstack.
             </p>
         </section>
     )
