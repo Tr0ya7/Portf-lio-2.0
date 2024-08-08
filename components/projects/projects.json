@@ -27,7 +27,7 @@
         "id": 4,
         "title": "GitHub Profile Founder",
         "names": ["Next.js", "TypeScript", "TailwindCss"],
-        "link": "https://space-app-orcin.vercel.app",
+        "link": "https://github-profile-founder.vercel.app",
         "date": "Agosto 2024",
         "description": "Buscador de perfis cadastrados no GitHub, mostrando na busca os detalhes e ao clicar sobre o perfil é mostrado todos os repositórios do perfil escolhido"
     },
