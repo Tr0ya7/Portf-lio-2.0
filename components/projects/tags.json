@@ -36,46 +36,31 @@
     },
     {
         "id": 8,
-        "name": "Go",
-        "image": "/images/tags/go.png"
-    },
-    {
-        "id": 9,
-        "name": "Gin",
-        "image": "/images/tags/gin.png"
-    },
-    {
-        "id": 10,
-        "name": "Gorm",
-        "image": "/images/tags/gorm.png"
-    },
-    {
-        "id": 11,
         "name": "SQL",
         "image": "/images/tags/sql.png"
     },
     {
-        "id": 12,
+        "id": 9,
         "name": "PostgreSQL",
         "image": "/images/tags/postgresql.png"
     },
     {
-        "id": 13,
+        "id": 10,
         "name": "Styled Components",
         "image": "/images/tags/styled components.png"
     },
     {
-        "id": 14,
+        "id": 11,
         "name": "Firebird",
         "image": "/images/tags/firebird.png"
     },
     {
-        "id": 15,
+        "id": 12,
         "name": "TypeScript",
         "image": "/images/tags/typescript.png"
     },
     {
-        "id": 16,
+        "id": 13,
         "name": "TailwindCss",
         "image": "/images/tags/tailwindCss.png"
     }
